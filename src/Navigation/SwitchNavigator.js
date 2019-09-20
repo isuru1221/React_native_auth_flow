@@ -11,7 +11,7 @@ const SwitchNavigator = createSwitchNavigator({
         SignIn:SignIn,
         Main:Main
     },{
-        initialRouteName:"Home"
+        initialRouteName:"Main"
     }
 );
 
