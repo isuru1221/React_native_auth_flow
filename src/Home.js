@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
         alignItems: 'center'
     },
     header:{
-        color: '#C2FCCA',
+        color: '#C2FCBA',
         fontSize:20,
         textAlign:'center',
         textShadowColor: 'rgba(0, 0, 0, 0.75)',
@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
         textShadowRadius: 10
     },
     button:{
-        backgroundColor: '#27B338',
+        backgroundColor: '#27B337',
         elevation: 3,
         height: 40,
         width: 250,
